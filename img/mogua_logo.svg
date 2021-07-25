@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="150px"
+   height="58px"
+   viewBox="0 0 150 58"
+   version="1.1"
+   id="svg15"
+   sodipodi:docname="mogua_logo.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs19">
+    <rect
+       x="8.5528057"
+       y="2.4054766"
+       width="136.04307"
+       height="51.316834"
+       id="rect65407" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview17"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.7414623"
+     inkscape:cx="74.970687"
+     inkscape:cy="28.999357"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg15" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';fill:#ff00ff;fill-opacity:1;stroke:none"
+     x="-0.53454995"
+     y="43.565857"
+     id="text5391"><tspan
+       sodipodi:role="line"
+       id="tspan5389"
+       x="-0.53454995"
+       y="43.565857">Mogua</tspan></text>
+</svg>
