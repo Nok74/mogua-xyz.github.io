@@ -9,9 +9,10 @@ en: # English
   homemain_description: |
     Mogua Release
     --------------------
-
-    We believe that more energy-saving, more intuitive, and more enjoyment of life  is like a Mogua
-
+    Can life only stay the same?  
+    
+    Welcome to join Green Energy Convenient and Safe Mogua World
+    
     You should review the [release notes](download/#release-notes) and then [install](/download) Mogua blockchain.
   homemain_addendum: |
     Released under the open source [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
@@ -22,7 +23,7 @@ en: # English
   homemain_chia_blockchain_no_releases: "1.0"
   homemain_wallets_no_releases: "1.0"
   homemain_box_button: "Download Source Code"
-  install_box_button: "Install  Mogua Blockchain"
+  install_box_button: "Install Chia Blockchain"
   homemain_downloads_link: "Release notes"
   homemain_idc_title: "IDC on Chia"
   homemain_idc_quote: |
@@ -96,7 +97,7 @@ en: # English
   navigation:
     download: "Download"
     about: "About"
-    blog: "Blog"
+    # blog: "Blog"
     # news: "News"
     faq: "FAQ"
     # greenpaper: "Green Paper"
@@ -272,33 +273,32 @@ fr: # French
       heading: "Gagnez 100 000 $ en prix total"
       sign_up: "S'inscrire"
 cn: # Chinese
-  faq_title: "常问问题"
+  # faq_title: "常问问题"
   news_title: "新闻"
   news_see_more: "查看更多"
-  homemain_title: "正大网络"
-  homemain_subtitle: "更好的區塊鍊和智能交易平台，更加分散，更高效，更安全。"
+  homemain_title: "魔瓜网络"
+  homemain_subtitle: "魔瓜讓你的生活 更綠能 安全 方便。"
   homemain_button: "下载Beta Testnet"
   homemain_description: |
-    Chia的Beta测试网
+    
+    mogua的Beta网
     -------------
 
-    mogua Network是由BitTorrent的創始人[Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/)創建的區塊鍊和智能交易平台。它的灵感与比特币区块链相似，但是在Chia中，资源不是计算能力，而是磁盘空间。为此，将能源密集型“工作量证明”替换为“空间量证明”，因此磁盘空间成为验证交易而非能源的主要资源。
-
-    Beta测试网推出了Chialisp的第一个版本，即Chia的智能事务编程语言。当前可用的智能交易有：[原子交换](https://github.com/Chia-Network/wallets/blob/master/docs/atomic_swaps.md)，[授权收款人](https://github.com/Chia-Network/wallets/blob/master/docs/authorised_pa​​yees.md)，[可恢复的钱包](https://github.com/Chia-Network/wallets/blob/master/docs/recoverable_wallet.md)，[multisig钱包](https://github.com/Chia-Network/wallets/blob/master/multisig/README.org)和[限价钱包](https://github.com/Chia-Network/wallets/blob/master/docs/rate_limited_wallet.md)。 mogua Network的创始人和BitTorrent的前创始人在[Chialisp](https://www.chia.net/2019/11/27/chialisp.en.html)上有更多内容。
-
-    Beta测试网还引入了Chia的区块链共识层，其中包括一个完整的节点，农民和时间主。
-
+    mogua Network是由chia FORK而來 
+    感謝chia團隊的開源碼以及ｓｅｎｇｅ的分享 
+   
+    世界需要更綠能的維護  我們只有一個地球 
+    魔瓜  致力於更綠能/省電/方便的世界
+    
+    
     由于这是Beta版本，因此您可能需要查看[release notes](download/#release-notes)。
 
     区块链
     ---
 
-    Chia的区块链包括一个完整的节点，农民和时间领主。在[GitHub](https://github.com/Chia-Network/chia-blockchain)上下载源代码。
+    mogua的区块链包括一个完整的节点，农民和时间领主。在[GitHub](https://github.com/Nok74/Mogua-blockchain)上下载源代码。
 
-    Chialisp和LedgerSim
-    ------------------
-
-    LedgerSim支持在账本而非区块链上进行Chialisp智能交易，以进行测试和开发。 Chia的钱包展示了我们的新编程语言Chialisp。在[GitHub](https://github.com/Chia-Network/wallets)上下载源代码。
+    
   homemain_addendum: |
     在開源[Apache許可證]（https://www.apache.org/licenses/LICENSE-2.0）下發布。
   homemain_box_title: "资料下载"
@@ -308,7 +308,7 @@ cn: # Chinese
   homemain_chia_blockchain_no_releases: "1.0"
   homemain_wallets_no_releases: "1.0"
   homemain_box_button: "下载源代码"
-  install_box_button: "Install Chia Blockchain"
+  install_box_button: "Install "
   homemain_downloads_link: "查看发行说明"
   homemain_idc_title: "IDC on Chia"
   homemain_idc_quote: |
@@ -316,14 +316,15 @@ cn: # Chinese
   homemain_idc_report: "Read the Report"
   about_title: "关于我们"
   about_description: |
-    mogua Network是一个去中心化的开源全球区块链，与传统的工作量证明加密货币相比，其浪费更少，去中心化程度更高，更安全。它的灵感与比特币区块链相似，但是在Chia中，资源不是计算能力，而是磁盘空间。为了实现这一目标，比特币中使用的“工作证明”被“空间证明”代替，因此磁盘空间成为达成分散式“中本聪式”共识以验证交易的主要资源和时间证明。
+    mogua Network是一个去中心化的开源全球区块链，与传统的工作量证明加密货币相比
+    ，其浪费更少，去中心化程度更高，更安全。它的灵感与比特币区块链相似。
 
-    Chia网络还是一家智能交易平台公司。
-  about_team_title: "球队"
-  about_team_description: |
-    mogua Network由BitTorrent的创建者[Bram Cohen](https://www.linkedin.com/in/cohenbram/)创立。它包括eMusic.com和Vindicia的前创始人兼首席执行官[Gene Hoffman](https://www.linkedin.com/in/gehoffman/), 以及Overstock.com的前代理首席执行官[Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/). Chia区块链拥有活跃的开源开发者社区，对代码库做出了许多贡献。许多人在包括研究，同行评审，开发，测试，文档和翻译在内的领域为Chia区块链做出贡献。
-  about_invest_investors_title: "我们的投资者"
-  blog_title: "直接来自Chia"
+   
+  # about_team_title: "球队"
+  # about_team_description: |
+  #   mogua Network由BitTorrent的创建者[Bram Cohen](https://www.linkedin.com/in/cohenbram/)创立。它包括eMusic.com和Vindicia的前创始人兼首席执行官[Gene Hoffman](https://www.linkedin.com/in/gehoffman/), 以及Overstock.com的前代理首席执行官[Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/). Chia区块链拥有活跃的开源开发者社区，对代码库做出了许多贡献。许多人在包括研究，同行评审，开发，测试，文档和翻译在内的领域为Chia区块链做出贡献。
+  # about_invest_investors_title: "我们的投资者"
+  blog_title: "來自mogua"
   download_title: "发行说明"
   download_loading_message: "正在加载发行版..."
   download_windows_button: "Windows"
@@ -334,25 +335,25 @@ cn: # Chinese
   download_centosfedora_button: "CentOS/Redhat"
   download_wsl2_button: "Install WSL2"
   download_amzlinux_button: "Install Amazon Linux"
-  green_paper_main_title: "嘉的绿皮书"
-  green_paper_download: "下载绿皮书"
-  green_paper_description: |
-    绿皮书详细介绍了一种新的共识算法，称为空间和时间证明，即“ PoST”。 PoST取代了比特币采矿中的工作量证明，后者浪费了大量能源，并且对采矿集中化的安全性较低。
-  green_paper_addendum_title: "学到更多"
-  green_paper_addendum: |
-    我们有学术论文和演讲，详细介绍了我们的新共识算法和区块链软件。在2019年，我们发布了《绿皮书》（https://www.chia.net/assets/ChiaGreenPaper.pdf），概述了空间和时间证明的构造，并说明了Chia的许多设计选择。麻省理工学院也有[2019年Mariano Sorgente的演讲]（https://www.youtube.com/watch?v=_075bzQPooU），内容涉及如何通过空间证明和VDF实现Nakamoto共识。
+  # green_paper_main_title: "嘉的绿皮书"
+  # green_paper_download: "下载绿皮书"
+  # # green_paper_description: |
+  #   绿皮书详细介绍了一种新的共识算法，称为空间和时间证明，即“ PoST”。 PoST取代了比特币采矿中的工作量证明，后者浪费了大量能源，并且对采矿集中化的安全性较低。
+  # # green_paper_addendum_title: "学到更多"
+  # # green_paper_addendum: |
+  #   我们有学术论文和演讲，详细介绍了我们的新共识算法和区块链软件。在2019年，我们发布了《绿皮书》（https://www.chia.net/assets/ChiaGreenPaper.pdf），概述了空间和时间证明的构造，并说明了Chia的许多设计选择。麻省理工学院也有[2019年Mariano Sorgente的演讲]（https://www.youtube.com/watch?v=_075bzQPooU），内容涉及如何通过空间证明和VDF实现Nakamoto共识。
 
-    布拉姆·科恩（Bram Cohen）于2018年2月在斯坦福大学（太空证明）上演讲（https://www.youtube.com/watch?v=2Zlcgt8FVz4）。我们的顾问Dan Boneh，BenediktBünz和Ben Fisch [发布了VDF调查]（https://eprint.iacr.org/2018/712.pdf），这是时间证明的基础技术。 Lipa Long [发布了有关班级分组的说明]（https://github.com/Chia-Network/vdf-competition/blob/master/classgroups.pdf），我们的《时间证明》（https://eprint.iacr.org/2018/627.pdf）。根据[学术论文]，布拉姆于2018年1月在BPASE '18上展示了[超越Hellman的时间记忆权衡与空间证明的应用]（https://www.youtube.com/watch?v=iqxkO7C-cyk） ]（https://eprint.iacr.org/2017/893）和Hamza Abusalah的这些[幻灯片]（https://view.publitas.com/chia-network/pbase18slides/page/1）。 Ben Fisch在2018年1月的BPASE 2018上就可验证延迟功能进行了[演讲]（https://www.youtube.com/watch?v=qUoagL7OZ1k）。 Bram [在伯克利的Blockchain发言人]（https://www.facebook.com/BlockchainatBerkeley/videos/2006069823011271/）（大约20:00开始）于2018年3月发布，带有[幻灯片]（https://cyber.stanford.com）。 edu / sites / g / files / sbiybj9936 / f / bramcohen.pdf）。布拉姆（Bram）在2017年1月发表了[在BPASE 2017上的演讲]（https://www.youtube.com/watch?v=aYG0NxoG7yw），内容涉及用时空证明（[幻灯片]（https：//cyber.stanford .edu / sites / g / files / sbiybj9936 / f / bramcohen.pdf））。
+  #   布拉姆·科恩（Bram Cohen）于2018年2月在斯坦福大学（太空证明）上演讲（https://www.youtube.com/watch?v=2Zlcgt8FVz4）。我们的顾问Dan Boneh，BenediktBünz和Ben Fisch [发布了VDF调查]（https://eprint.iacr.org/2018/712.pdf），这是时间证明的基础技术。 Lipa Long [发布了有关班级分组的说明]（https://github.com/Chia-Network/vdf-competition/blob/master/classgroups.pdf），我们的《时间证明》（https://eprint.iacr.org/2018/627.pdf）。根据[学术论文]，布拉姆于2018年1月在BPASE '18上展示了[超越Hellman的时间记忆权衡与空间证明的应用]（https://www.youtube.com/watch?v=iqxkO7C-cyk） ]（https://eprint.iacr.org/2017/893）和Hamza Abusalah的这些[幻灯片]（https://view.publitas.com/chia-network/pbase18slides/page/1）。 Ben Fisch在2018年1月的BPASE 2018上就可验证延迟功能进行了[演讲]（https://www.youtube.com/watch?v=qUoagL7OZ1k）。 Bram [在伯克利的Blockchain发言人]（https://www.facebook.com/BlockchainatBerkeley/videos/2006069823011271/）（大约20:00开始）于2018年3月发布，带有[幻灯片]（https://cyber.stanford.com）。 edu / sites / g / files / sbiybj9936 / f / bramcohen.pdf）。布拉姆（Bram）在2017年1月发表了[在BPASE 2017上的演讲]（https://www.youtube.com/watch?v=aYG0NxoG7yw），内容涉及用时空证明（[幻灯片]（https：//cyber.stanford .edu / sites / g / files / sbiybj9936 / f / bramcohen.pdf））。
 
-    Bram在SF Bitcoin Devs Seminar上进行了[演讲]（https://www.youtube.com/watch?v=zZaB4hM8SQ4），讨论了使用[幻灯片]扩展比特币的数据结构（https://view.publitas.com/chia -network / bitcoin_data_structures /）和[Merkle Set代码]（https://github.com/bramcohen/MerkleSet）。布拉姆（Bram）在SF比特币开发者研讨会上发表了有关消除加密货币浪费的演讲[https://www.youtube.com/watch?v=zZaB4hM8SQ4]。
+  #   Bram在SF Bitcoin Devs Seminar上进行了[演讲]（https://www.youtube.com/watch?v=zZaB4hM8SQ4），讨论了使用[幻灯片]扩展比特币的数据结构（https://view.publitas.com/chia -network / bitcoin_data_structures /）和[Merkle Set代码]（https://github.com/bramcohen/MerkleSet）。布拉姆（Bram）在SF比特币开发者研讨会上发表了有关消除加密货币浪费的演讲[https://www.youtube.com/watch?v=zZaB4hM8SQ4]。
   footer_copyright_year: "©mogua Network 2021"
   navigation:
     download: "下载"
     about: "关于"
     blog: "博客"
-    news: "新闻"
-    faq: "常问问题"
-    greenpaper: "绿皮书"
+    # news: "新闻"
+    # faq: "常问问题"
+    # greenpaper: "绿皮书"
     contact: "联系"
   contact_title: "联系我们"
   contact_join_keybase: "加入我们的Keybase组"
