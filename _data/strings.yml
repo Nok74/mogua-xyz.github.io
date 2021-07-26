@@ -23,7 +23,7 @@ en: # English
   homemain_chia_blockchain_no_releases: "1.0"
   homemain_wallets_no_releases: "1.0"
   homemain_box_button: "Download Source Code"
-  install_box_button: "Install Chia Blockchain"
+  install_box_button: "Install mogua Blockchain"
   homemain_downloads_link: "Release notes"
   homemain_idc_title: "IDC on Chia"
   homemain_idc_quote: |
@@ -99,7 +99,7 @@ en: # English
     about: "About"
     # blog: "Blog"
     # news: "News"
-    faq: "FAQ"
+    # faq: "FAQ"
     # greenpaper: "Green Paper"
     # careers: "Careers"
     contact: "Contact"
@@ -147,131 +147,6 @@ en: # English
       heading: "Win $100K in total prize money"
       sign_up: "Sign Up"
 
-fr: # French
-  faq_title: "FAQ"
-  news_title: "Nouvelles"
-  news_see_more: "Voir plus"
-  homemain_title: "Réseau Chia"
-  homemain_subtitle: "Une meilleure blockchain et une plateforme de transaction intelligente qui est plus décentralisée, plus efficace et plus sécurisée."
-  homemain_button: "Télécharger Beta Testnet"
-  homemain_description: |
-    Release Candidates
-    ---------------------
-
-    mogua Network est une plateforme de blockchain et de transaction intelligente créée par le fondateur de BitTorrent, [Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/). Il utilise le premier nouvel algorithme de consensus de style Nakamoto depuis le lancement de Bitcoin en 2008. Les preuves de l'espace et du temps remplacent les preuves de travail énergivores en utilisant l'espace disque inutilisé.
-
-    Beta testnet présente la première version de Chialisp, le langage de programmation de transactions intelligent de Chia. Il est puissant, facile à auditer et sécurisé. Les transactions intelligentes actuellement disponibles sont: [swaps atomiques](https://github.com/Chia-Network/wallets/blob/master/docs/atomic_swaps.md), [bénéficiaires autorisés](https://github.com/Chia-Network/wallets/blob/master/docs/authorised_payees.md), [portefeuilles récupérables](https://github.com/Chia-Network/wallets/blob/master/docs/recoverable_wallet.md), [portefeuilles multisig](https://github.com/Chia-Network/wallets/blob/master/multisig/README.org) et [portefeuilles à taux limité](https://github.com/Chia-Network/wallets/blob/master/docs/rate_limited_wallet.md). Le fondateur de mogua Network, et ancien fondateur de BitTorrent, en a plus sur [Chialisp](https://www.chia.net/2019/11/27/chialisp.fr.html).
-
-    Beta testnet présente également la couche de consensus de blockchain de Chia qui comprend un nœud complet, un agriculteur, et un calendrier. La blockchain est beta et il ne prend pas encore en charge les transactions.
-
-    Puisqu'il s'agit d'une version beta, vous pouvez consulter les [notes de version](download/#release-notes).
-
-    Blockchain
-    ----------
-
-    La blockchain de Chia comprend un nœud complet, un agriculteur et un seigneur du temps. Téléchargez le code source sur [GitHub](https://github.com/Chia-Network/chia-blockchain).
-
-    Chialisp et LedgerSim
-    ---------------------
-
-    LedgerSim prend en charge les transactions intelligentes Chialisp sur un grand livre au lieu d'une chaîne de blocs à des fins de test et de développement. Les portefeuilles de Chia présentent notre nouveau langage de programmation, Chialisp. Téléchargez le code source sur [GitHub](https://github.com/Chia-Network/wallets).
-  homemain_addendum: |
-    Publié sous l'open source [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
-  homemain_box_title: "Téléchargements"
-  homemain_box_section_1: "Blockchain"
-  homemain_box_section_2: "Chialisp et LedgerSim"
-  homemain_box_latest_version: "Dernière version:"
-  homemain_chia_blockchain_no_releases: "1.0"
-  homemain_wallets_no_releases: "1.0"
-  homemain_box_button: "Télécharger le code source"
-  homemain_downloads_link: "Consulter les notes"
-  homemain_idc_title: "IDC on Chia"
-  homemain_idc_quote: |
-    “The mogua Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
-  homemain_idc_report: "Read the Report"
-  about_title: "À propos de nous"
-  about_description: |
-    mogua Network est une blockchain mondiale open source décentralisée qui est moins gaspilleuse, plus décentralisée et plus sécurisée que les crypto-monnaies traditionnelles de preuve de travail. Il est inspiré et similaire à la blockchain Bitcoin, mais à Chia, la ressource n'est pas la puissance de calcul, mais l'espace disque. Pour y parvenir, les «preuves de travail» utilisées dans Bitcoin sont remplacées par des «preuves d'espace», de sorte que l'espace disque devient la principale ressource et les preuves de temps pour parvenir à un consensus décentralisé de «style Nakamoto» qui valide les transactions.
-
-    mogua Network est également une société de plate-forme de transaction intelligente.
-  about_team_title: "Équipe"
-  about_team_description: |
-    mogua Network a été fondée par le créateur de BitTorrent, [Bram Cohen](https://www.linkedin.com/in/cohenbram/). Ca comprend également le leadership exécutif de l'ancien fondateur et PDG d'eMusic.com et de Vindicia, [Gene Hoffman](https://www.linkedin.com/in/gehoffman/) et de l'ancien PDG par intérim d'Overstock.com, [Mitch Edwards](https://www.linkedin.com/in/mitchelledwards/). La blockchain Chia a une communauté de développeurs open source active avec de nombreuses contributions à la base de code. De nombreuses personnes contribuent à la blockchain Chia dans des domaines tels que la recherche, l'examen par les pairs, les tests, la documentation et la traduction.
-  about_invest_investors_title: "Nos investisseurs"
-  blog_title: "Directement de Chia"
-  download_title: "Notes de version"
-  download_loading_message: "Chargement des versions ..."
-  download_windows_button: "Windows"
-  download_macosintel_button: "macOS Intel"
-  download_macosm1_button: "macOS M1"
-  download_debian_button: "Ubuntu/Debian"
-  download_debianarm_button: "Ubuntu/Debian ARM"
-  download_centosfedora_button: "CentOS/Redhat"
-  download_wsl2_button: "Install WSL2"
-  download_amzlinux_button: "Install Amazon Linux"
-  green_paper_main_title: "Livre vert de Chia"
-  green_paper_download: "Télécharger le livre vert"
-  green_paper_description: |
-    Le livre vert détaille un nouvel algorithme de consensus appelé «preuves de l'espace et du temps», «PoST». PoST remplace les preuves de travail dans l'exploitation minière de Bitcoin qui gaspillent des quantités massives d'énergie et sont moins sécurisées pour la centralisation de l'exploitation minière.
-  green_paper_addendum_title: "Apprendre encore plus"
-  green_paper_addendum: |
-    Nous avons des articles académiques et des présentations qui donnent des détails sur notre nouvel algorithme de consensus et notre logiciel de blockchain. En 2019, nous avons dévoilé notre [Livre vert](https://www.chia.net/assets/ChiaGreenPaper.pdf) décrivant la construction de Proofs of Space and Time et illustrant de nombreux choix de conception de Chia. Il y a aussi une [conférence de 2019 de Mariano Sorgente](https://www.youtube.com/watch?v=_075bzQPooU) au MIT sur la façon d'atteindre le consensus de Nakamoto avec Proof of Space et VDF.
-
-    Bram Cohen [présenté](https://www.youtube.com/watch?v=2Zlcgt8FVz4) à Stanford en février 2018 sur Proofs of Space. Nos conseillers, Dan Boneh, Benedikt Bünz et Ben Fisch [ont publié une enquête sur les VDF](https://eprint.iacr.org/2018/712.pdf) qui sont la technologie sous-jacente de Proof of Time. Lipa Long [a publié une explication des groupes de classe](https://github.com/Chia-Network/vdf-competition/blob/master/classgroups.pdf) que nos [preuves de temps](https: //eprint.iacr .org / 2018 / 627.pdf) est basé sur. Bram a présenté [Beyond Hellman's Time-Memory Trade-Offs with Applications to Proofs of Space](https://www.youtube.com/watch?v=iqxkO7C-cyk) à BPASE '18 en janvier 2018 sur la base du [document académique](https://eprint.iacr.org/2017/893) et ces [diapositives](https://view.publitas.com/chia-network/pbase18slides/page/1) par Hamza Abusalah. Ben Fisch a donné une [conférence](https://www.youtube.com/watch?v=qUoagL7OZ1k) à BPASE 2018 en janvier 2018 sur les fonctions de délai vérifiable. Bram [a pris la parole à Blockchain at Berkeley](https://www.facebook.com/BlockchainatBerkeley/videos/2006069823011271/) (qui commence vers 20h00) en mars 2018 avec [slides](https: //cyber.stanford. edu / sites / g / files / sbiybj9936 / f / bramcohen.pdf). Bram a donné une [conférence à BPASE 2017](https://www.youtube.com/watch?v=aYG0NxoG7yw) en janvier 2017 sur l'élimination des déchets avec des preuves d'espace et de temps ([slides](https: //cyber.stanford .edu / sites / g / files / sbiybj9936 / f / bramcohen.pdf)).
-
-    Bram a donné une [conférence](https://www.youtube.com/watch?v=zZaB4hM8SQ4) au SF Bitcoin Devs Seminar sur les structures de données pour la mise à l'échelle de Bitcoin avec [slides](https://view.publitas.com/chia -network / bitcoin_data_structures /) et [Merkle Set code](https://github.com/bramcohen/MerkleSet). Bram a donné une [conférence](https://www.youtube.com/watch?v=zZaB4hM8SQ4) au SF Bitcoin Devs Seminar sur l'élimination des déchets des crypto-monnaies.
-  footer_copyright_year: "© mogua Network 2021"
-  navigation:
-    download: "Télécharger"
-    about: "Sur"
-    blog: "Blog"
-    news: "Nouvelles"
-    faq: "FAQ"
-    greenpaper: "Papier vert"
-    contact: "Contact"
-  contact_title: "Nous contacter"
-  contact_join_keybase: "Rejoignez notre groupe Keybase"
-  contact_email_title: "Ne manquez jamais de nouvelles. Abonnez-vous dès aujourd'hui."
-  contact_live_feed_title: "Flux en direct"
-  contact_email: "Email"
-  contact_signup: "Soumettre"
-  proof_of_space_competition_header: "Gagnez 100 000 $ en prix total avec le concours Proof of Space de Chia."
-  proof_of_space_competition_about_competition_header: "À propos du concours"
-  proof_of_space_competition_about_competition_text: "Chia organise un concours pour la meilleure mise en œuvre de notre preuve de construction d'espace. Un prix total de 100 000 $ sera attribué."
-  proof_of_space_competition_about_competition_dates_text: "Le concours se termine le 9 octobre 2019."
-  proof_of_space_competition_about_competition_github_text: "En savoir plus sur [Github](https://github.com/Chia-Network/proofofspace)."
-  proof_of_space_competition_about_competition_keybase_text: "Rejoignez notre chaîne publique [Keybase](https://keybase.io/team/chia_network.public)."
-  proof_of_space_competition_about_competition_entry_form_text: "Remplissez le [formulaire d'inscription](https://github.com/Chia-Network/proofofspace/blob/master/2019%20CHIA%20NETWORK%20CHALLENGE%20APPLICATION%20FORM.pdf)."
-  proof_of_space_competition_footer: "Gagnez 100 000 $ en prix total."
-  proof_of_space_competition_sign_up: "S'inscrire"
-  proof_of_time_contest:
-    header:
-      heading: "Le 2e défi Proof of Time"
-      subtext: "Une compétition mondiale pour accélérer la fonction de délai vérifiable"
-      info_text_prize: "100 000 $ en prix total"
-      info_text_time: "19 avril - 19 juillet"
-      join_now: "Adhérer maintenant"
-    body_section_1:
-      heading: "Le défi VDF"
-      paragraph_1: "Il y a quelques mois, nous avons clôturé notre premier concours d'implémentation de VDF et avons été surpris par l'excellente qualité des soumissions. Les trois meilleurs concurrents sont arrivés chacun en moins d'une minute (l'implémentation de référence était de 169 secondes). Cinq autres équipes ont également soumis des implémentations plus rapides que la référence. Toutes les soumissions étaient open-source et peuvent être trouvées [ici](https://www.chia.net/2019/07/18/chia-vdf-competition-round-2-results-and-announcements.en.html). Le prix total était à l'origine de 100 000 $, mais en raison du travail acharné que toutes les équipes ont mis dans la compétition, nous avons décidé d'attribuer 2 000 $ à chaque équipe qui a soumis une candidature, ce qui porte le prix total remis à 116 000 $."
-      paragraph_2: "Nous sommes fiers d'annoncer un deuxième concours, mettant les participants au défi d'améliorer leur nouvelle implémentation de référence."
-    body_section_2:
-      heading: "Deux pistes"
-      line_1: "La deuxième compétition VDF sera divisée en deux pistes:"
-      line_2: "1. Optimisation SIMD et GPU autorisée"
-      line_3: "2. Optimisation SIMD et GPU non autorisée"
-      paragraph: "Il s'agit de nous aider à séparer les différents types d'optimisation. Nous nous attendons à ce que les entrées qui utilisent les optimisations autorisées dans la piste 1 soient plus rapides, mais il n'est pas nécessaire que la soumission de la piste 1 utilise ces techniques. Cela signifie que toutes les soumissions de la piste 2 sont également admissibles aux soumissions pour la piste 1. Les gagnants de chaque piste recevront 50 000 $. Les individus et les équipes sont invités à se joindre. Les participants auront tous accès aux ordinateurs spécialisés du laboratoire de Chia. Les spécifications du matériel de référence et d'autres détails techniques sont disponibles sur notre GitHub. Vous pouvez consulter notre pré-engagement [ici](https://github.com/Chia-Network/vdf-competition). Les candidats pourront communiquer avec Chia pendant la compétition via un canal sécurisé de Keybase."
-    body_section_3:
-      heading: "100 000 $ en prix total"
-      time_caption: "3 mois: avril 2019 - juillet 2019"
-      point_1: "Optimisation SIMD et GPU autorisée"
-      point_2: "Optimisation SIMD et GPU non autorisée"
-    body_section_4:
-      heading: "Documents et assistance"
-      entry_form: "Formulaire d'inscription"
-    footer:
-      heading: "Gagnez 100 000 $ en prix total"
-      sign_up: "S'inscrire"
 cn: # Chinese
   # faq_title: "常问问题"
   news_title: "新闻"
@@ -337,10 +212,10 @@ cn: # Chinese
   download_amzlinux_button: "Install Amazon Linux"
   # green_paper_main_title: "嘉的绿皮书"
   # green_paper_download: "下载绿皮书"
-  # # green_paper_description: |
+  # green_paper_description: |
   #   绿皮书详细介绍了一种新的共识算法，称为空间和时间证明，即“ PoST”。 PoST取代了比特币采矿中的工作量证明，后者浪费了大量能源，并且对采矿集中化的安全性较低。
-  # # green_paper_addendum_title: "学到更多"
-  # # green_paper_addendum: |
+  # green_paper_addendum_title: "学到更多"
+  # green_paper_addendum: |
   #   我们有学术论文和演讲，详细介绍了我们的新共识算法和区块链软件。在2019年，我们发布了《绿皮书》（https://www.chia.net/assets/ChiaGreenPaper.pdf），概述了空间和时间证明的构造，并说明了Chia的许多设计选择。麻省理工学院也有[2019年Mariano Sorgente的演讲]（https://www.youtube.com/watch?v=_075bzQPooU），内容涉及如何通过空间证明和VDF实现Nakamoto共识。
 
   #   布拉姆·科恩（Bram Cohen）于2018年2月在斯坦福大学（太空证明）上演讲（https://www.youtube.com/watch?v=2Zlcgt8FVz4）。我们的顾问Dan Boneh，BenediktBünz和Ben Fisch [发布了VDF调查]（https://eprint.iacr.org/2018/712.pdf），这是时间证明的基础技术。 Lipa Long [发布了有关班级分组的说明]（https://github.com/Chia-Network/vdf-competition/blob/master/classgroups.pdf），我们的《时间证明》（https://eprint.iacr.org/2018/627.pdf）。根据[学术论文]，布拉姆于2018年1月在BPASE '18上展示了[超越Hellman的时间记忆权衡与空间证明的应用]（https://www.youtube.com/watch?v=iqxkO7C-cyk） ]（https://eprint.iacr.org/2017/893）和Hamza Abusalah的这些[幻灯片]（https://view.publitas.com/chia-network/pbase18slides/page/1）。 Ben Fisch在2018年1月的BPASE 2018上就可验证延迟功能进行了[演讲]（https://www.youtube.com/watch?v=qUoagL7OZ1k）。 Bram [在伯克利的Blockchain发言人]（https://www.facebook.com/BlockchainatBerkeley/videos/2006069823011271/）（大约20:00开始）于2018年3月发布，带有[幻灯片]（https://cyber.stanford.com）。 edu / sites / g / files / sbiybj9936 / f / bramcohen.pdf）。布拉姆（Bram）在2017年1月发表了[在BPASE 2017上的演讲]（https://www.youtube.com/watch?v=aYG0NxoG7yw），内容涉及用时空证明（[幻灯片]（https：//cyber.stanford .edu / sites / g / files / sbiybj9936 / f / bramcohen.pdf））。
@@ -350,7 +225,7 @@ cn: # Chinese
   navigation:
     download: "下载"
     about: "关于"
-    blog: "博客"
+    # blog: "博客"
     # news: "新闻"
     # faq: "常问问题"
     # greenpaper: "绿皮书"
